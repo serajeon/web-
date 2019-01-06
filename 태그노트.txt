@@ -1,0 +1,65 @@
+applicasion       code
+app                source
+program          language
+webpage
+website
+
+public domain >> 무료도메인
+
+webpage는 html을 사용
+편집하는 프로그램 >>editor(에디터)
+코드를 작성하는 최적화 ㅡ 아톰(atom)
+에디터 검색시 ㅡbest html editor 2019 일케 검색하면 최신에디터 얻을것이다.
+웹페이지의 확장자는 .html
+내컴퓨터가 아닌 다른컴퓨터의 웹페이지를 볼때는 주소를 쓰죵. 
+내컴퓨터의 웹페이지열때는 ctrl+o를 누르세용
+열리는태그<strong>일빵빵 닫히는(tag:~설명해주죠)태그</strong> 
+영어기초 61강
+밑줄= <u></u> ㅡㅡunderline의 약자에용
+<hl>w3c</h1> 의 정의. (추천검색어:html h1 tag)
+제목을 나타내는 태그로 줄바뀜.글자크기(1~6),약간굵은글씨가 나와용
+자주쓰는 태그 통계나오는 사이트 www.advancedwebranking.com
+2019.1.1현재 180여개의 태그가 있지만 25개정도의 태그만으로 이루어진 사이트가 가장 많아.
+추천 검색어:html new line tag = <br>은 닫을필요없음
+추천 검색어: html paragraph tag <p></p>어디부터어디까지가 한단락인지 표현가능
+참고: css로 단락사이의 거리를 조절할수 잇어요 css는 정교하게 조절가능
+<p style="margin-top:45px;">
+검색엔진은 태그로 검색해요ㅡ태그로 써야 검색순위 상위에 노출되요
+사진넣는법 <img src="tagimg.jpg" width=100%> 나
+ <img width=100% src="tagimg.jpg"> 나 
+ <img src="tagimg.jpg" width="35"> 상관없어요.숫자는 이미지의크기를 결정해요
+ src="tagimg.jpg" width="35" 는 태그의 속성(attribute)이라고 불러요
+좋은사이트 unsplash.com
+포함한태그는 부모태그 포함된태그는 자식태그
+어떤태그는 부모자식태그가 항상 같이 있는 경우가 있어요
+목록태그 list=<li>
+팁:  ctrl+마우스왼클 하면 한번에커서를 여러개 만들어요 
+ㅡ 같은글자가 커서마다 써져요.
+리스트의 <li>태그의 부모태그 <ul> unordered list
+팁:안쪽으로 들여쓰기 는 문장선택 후 키보드 tab키
+번호매기기 태그  <ol> ordered list
+표만드는 태그 <table> <tr> <td> 셋이 같이 다녀요.
+제목 ㅡ 웹페이지 제목 명시<title> 책으로치면 책표지에요
+ 그리고 검색엔진에 검색도 되죠.
+ 대망의 슈퍼스타태그(사용빈도1234위)
+이 웹사이트는 html로 되어있다는 뜻의 최상위태그<!doctype html>
+<html>로 웹페이지 전체내용 감싸기 </html>
+<head>로 제목이랑 언어(meta태그)감싸기</head>
+<body>로 나머지 내용 묶어주기</body> = 이거는 약속이에요
+==의문없이 그냥 묶어주세요 바디.
+링크태그! 검색을 가능하게 해주는! 위대한태그! <a>
+추천검색:html specification(명사,설명서)
+=w3c라는 국제기구에서 만든 html 공식설명서같은거에요.
+recommendation (권고.제안)== w3c는 미래의 웹페이지는 어떠해야하는가?
+연구하고 웹브라우저문서 같은것을 개발해서 올리기만 하면 
+제작은 웹페이지회사들이 알아서 끌어다 쓰는거에요.
+w3c는 직접 웹페이지를 제작하진 않아요.
+<a>태그는 링크하는태그인데 이것만으론 부족하고 속성을 써야해요.
+닻(anchor)을 내릴 웹주소를 적는거요(물론 태그언어로요)
+링크속성태그는 <href="웹주소(www.naver.com같은)">
+여기서 href는 무슨뜻? 
+h=hypertext의 약자,ref=참조(reference)
+새창열리게? <a href="웹주소" target="_blank">
+클릭전에 무엇인지 알려주고싶다ㅡ툴팁=title="블라블라"
+웹페이지를 엮어서 웹사이트를 만들어봅시다(낱장에서 책으로)
+
